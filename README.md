@@ -2,23 +2,19 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
 
-<p align="justify">I am a NodeJS developer with 11 years of coding experience.</p>
+<p align="justify">I am a Python and Django developer </p>
 
-<p align="justify">I started in 2009 with HTML and CSS, making simple static web pages and expanding my knowledge over time. Around 2010/2011, I started to learn how to use JavaScript to create dynamic web apps. During this time I also learned a version of BASIC so I could program games for my 3DS, using a DSi app called Petit Computer. In 2015 I found NodeJS, and started using it to create some basic bots for various chat platforms.</p>
 
-<p align="justify">My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take criticism well, and use suggestions to improve the product. The wants and/or needs of the userbase are always my priority, because without a supportive userbase, the product has no real purpose.</p>
-
-<p align="justify">Over the last few years, my knowledge and experience with NodeJS have expanded, as has my main project, which currently has nearly one million users. I am fluent in using JavaScript and JSON within the Node environment, as well as all the features of ES11. I also have a solid understanding of HTML and CSS, and am able to work with web apps or other browser-based environments .</p>
 
 ## My Skills
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=Bonde98&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
 
-![cheesits456's GitHub Stats][github-stats-img]
+![Bonde98's GitHub Stats][github-stats-img]
 
 ### Languages/Frameworks I'm good at:
 
-<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
+<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/Bonde98/Bonde98/raw/master/icons/bash.png" height="42"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
 <code><a href="https://discord.js.org"><img alt="discord.js" title="discord.js" src="https://avatars0.githubusercontent.com/u/26492485" height="42"></a></code>
@@ -32,17 +28,17 @@
 
 ### Languages/Frameworks I'm learning:
 
-<code><a href="http://coffeescript.org/"><img alt="CoffeeScript" title="CoffeeScript" src="https://github.com/cheesits456/cheesits456/raw/master/icons/coffeescript.png" height="42"></a></code>
+<code><a href="http://coffeescript.org/"><img alt="CoffeeScript" title="CoffeeScript" src="https://github.com/Bonde98/Bonde98/raw/master/icons/coffeescript.png" height="42"></a></code>
 <code><a href="https://www.electronjs.org/"><img alt="Electron" title="Electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" height="42"></a></code>
-<code><a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/cheesits456/cheesits456/raw/master/icons/express.png" height="42"></a></code>
+<code><a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/Bonde98/Bonde98/raw/master/icons/express.png" height="42"></a></code>
 <code><a href="https://www.lua.org"><img alt="Lua" title="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" height="42"></a></code>
 <code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
 
 ### Environments I work with:
 
-<code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a></code>
+<code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/Bonde98/Bonde98/raw/master/icons/arch.png" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
-<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a></code>
+<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/Bonde98/Bonde98/raw/master/icons/packages.png" height="42"></a></code>
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
 <code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
