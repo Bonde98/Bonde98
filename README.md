@@ -3,10 +3,7 @@
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Bonde98&style=flat-square"></h2>
 
 
-<p align="justify">I am a Python and Django developer.</p>
 
-
-## My Skills
 
 
 =======
