@@ -2,7 +2,7 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Bonde98&style=flat-square"></h2>
 
-<<<<<<< HEAD
+
 <p align="justify">I am a Python and Django developer.</p>
 
 
@@ -15,9 +15,10 @@
 
 
 ## My Skills
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=Bonde98&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
->>>>>>> 3671f6042a3f363a62ed255d69127fb712823f00
+
 
 ![Bonde98's GitHub Stats][github-stats-img]
 
