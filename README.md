@@ -2,18 +2,28 @@
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Bonde98&style=flat-square"></h2>
 
+<<<<<<< HEAD
 <p align="justify">I am a Python and Django developer.</p>
 
 
 ## My Skills
 
 <img src="https://Bonde98-readme-stats.vercel.app/api/top-langs?username=Bonde98&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Bonde98's Top Languages" align="right" width="295">
+=======
+<p align="justify">I am a Python and Django developer </p>
+
+
+
+## My Skills
+
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=Bonde98&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
+>>>>>>> 3671f6042a3f363a62ed255d69127fb712823f00
 
 ![Bonde98's GitHub Stats][github-stats-img]
 
 ### Languages/Frameworks I'm good at:
 
-<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/cheesits456/cheesits456/raw/master/icons/bash.png" height="42"></a></code>
+<code><a href="https://www.gnu.org/software/bash"><img alt="Bash" title="Bash" src="https://github.com/Bonde98/Bonde98/raw/master/icons/bash.png" height="42"></a></code>
 <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" height="42"></a></code>
 <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="42"></a></code>
 <code><a href="https://discord.js.org"><img alt="discord.js" title="discord.js" src="https://avatars0.githubusercontent.com/u/26492485" height="42"></a></code>
@@ -27,17 +37,17 @@
 
 ### Languages/Frameworks I'm learning:
 
-<code><a href="http://coffeescript.org/"><img alt="CoffeeScript" title="CoffeeScript" src="https://github.com/cheesits456/cheesits456/raw/master/icons/coffeescript.png" height="42"></a></code>
+<code><a href="http://coffeescript.org/"><img alt="CoffeeScript" title="CoffeeScript" src="https://github.com/Bonde98/Bonde98/raw/master/icons/coffeescript.png" height="42"></a></code>
 <code><a href="https://www.electronjs.org/"><img alt="Electron" title="Electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" height="42"></a></code>
-<code><a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/cheesits456/cheesits456/raw/master/icons/express.png" height="42"></a></code>
+<code><a href="https://expressjs.com"><img alt="Express" title="Express" src="https://github.com/Bonde98/Bonde98/raw/master/icons/express.png" height="42"></a></code>
 <code><a href="https://www.lua.org"><img alt="Lua" title="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" height="42"></a></code>
 <code><a href="https://www.typescriptlang.org"><img alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="42"></a></code>
 
 ### Environments I work with:
 
-<code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/cheesits456/cheesits456/raw/master/icons/arch.png" height="42"></a></code>
+<code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="https://github.com/Bonde98/Bonde98/raw/master/icons/arch.png" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></a></code>
-<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/cheesits456/cheesits456/raw/master/icons/packages.png" height="42"></a></code>
+<code><a href="https://github.com/features/packages"><img alt="GitHub Packages" title="GitHub Packages" src="https://github.com/Bonde98/Bonde98/raw/master/icons/packages.png" height="42"></a></code>
 <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" height="42"></a></code>
 <code><a href="https://www.raspberrypi.org"><img alt="Raspberry Pi" title="Raspberry Pi" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" height="42"></a></code>
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text" title="Sublime Text" src="https://avatars1.githubusercontent.com/u/684879?s=200&v=4" height="42"></a></code>
