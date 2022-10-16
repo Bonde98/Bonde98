@@ -62,14 +62,9 @@
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 
 <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </code>
-## Recent GitHub Activity
 
 
-<!--END_SECTION:activity-->
+Follow me if you like my work
 
-## Show your support
 
-Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https://hit.yhype.me/github/profile?user_id=35486894)
-
-<!--
 
