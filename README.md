@@ -1,4 +1,5 @@
-[![Banner][banner-img]][banner-link]
+<h1 align="center">Hi 👋, I'm Ass Malick</h1>
+<h3 align="center">A passionate frontend and Backend developer from Senegal</h3>
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=Bonde98&style=flat-square"></h2>
 
