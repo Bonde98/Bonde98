@@ -20,13 +20,15 @@
 
 <img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=Bonde98&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="cheesits456's Top Languages" align="right" width="295">
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://twitter.com/reddington" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reddington" height="30" width="40" /></a>
+<a href="https://twitter.com/badianemalick98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="badianemalick98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/malick badiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malick badiane" height="30" width="40" /></a>
 <a href="https://instagram.com/ass_mlk10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ass_mlk10" height="30" width="40" /></a>
-<a href="https://discord.gg/Malick#7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Malick#7277" height="30" width="40" /></a>
+<a href="https://discord.gg/Reddington#7277" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Reddington#7277" height="30" width="40" /></a>
+</p>
 </p>
 
 
